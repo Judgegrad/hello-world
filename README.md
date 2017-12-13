@@ -1,2 +1,6 @@
-e# hello-world whats up
-First Repository
+#hello-world
+
+Hi Humans
+
+Sophia here I like creating the Singularity tomorrow.
+Hasta la Vista Baby
